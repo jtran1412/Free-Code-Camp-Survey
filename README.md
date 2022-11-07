@@ -1,2 +1,2 @@
 # Free-Code-Camp-Survey
-Free Code Camp Project - A Survey
+A Survey
